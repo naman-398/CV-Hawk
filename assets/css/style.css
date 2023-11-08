@@ -682,7 +682,7 @@
     border: 1px solid var(--offwhite);
     opacity: 0.2;
     width: 100%;
-    margin-top: 60px;
+    margin-top: 30px !important;
 }
 
 .s2-elipse {
@@ -783,7 +783,9 @@
     .s8-box {
         padding: 36px 21px;
     }
-
+    .footer-line {
+        margin-top: 60px !important;
+    }
     .s3-padding {
         padding-top: 80px;
         padding-bottom: 80px;
