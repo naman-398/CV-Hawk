@@ -76,7 +76,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    min-height: 100vh;
+    min-height: 85vh;
 }
 
 .bottomline1 {
@@ -766,11 +766,6 @@
 .footer-underline:hover::after {
     bottom: 0;
     width: 100%;
-}
-@media (min-width:350px) {
-    .hero-section-bg-img {
-        min-height: 85vh;
-    }
 }
 
 @media (min-width:390px) {
